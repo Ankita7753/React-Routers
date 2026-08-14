@@ -11,7 +11,7 @@ max-auto flex justify-between items-center">
         MY WEBSITE
     </h1>
     <div className="flex gap-9">
-<Link to="/home"
+<Link to="/"
 className="hover:text-blue-400 transition">
      Home</Link>
 
